@@ -1,0 +1,12 @@
+TODO: 
+    ✔ Connect to the OpenAI api @started(24-05-06 07:49) @done(24-05-06 08:33) @lasted(44m49s)
+    ✔ Write a method to ask a question to the OpenAI API @started(24-05-06 08:33) @done(24-05-06 09:49) @lasted(1h16m19s)
+    ✔ Show the response to the user @done(24-05-06 09:49)
+    ✔ Add a function to add a profile picture to supabase @done(24-05-08 23:10)
+    ☐ Create supabase functions @started(24-05-08 23:18)
+        ☐ Function to add a conversation to supabase @started(24-05-08 23:18)
+        ☐ Function to delete a conversation from supabase
+        ☐ Function to get all conversations
+        ☐ Function to get a unique conversation
+        
+
